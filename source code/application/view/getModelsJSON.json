@@ -1,0 +1,64 @@
+{  
+   "models":[  
+      {  
+         "name":"Poppies Vase",
+         "description":"Gabriel Argy-Rousseau (1885-1953) was among the group of glassmakers working in pate de verre (glass paste) at the beginning of the century, who followed immediately in the pioneering footsteps of Henry Cros. Argy-Rousseau became one of the most, if not the most, prolific and successful practioners of this intricate and difficult technique. He had a shrewd eye for fashionable taste combined with a subtle colour sense and effective marketing skills. This vase, known in the catalogues as 'Poppies vase', was first introduced in 1924.",
+         "placeOfOrigin":"London, England",
+         "materials":"Pate-de-verre (glass paste)",
+         "artist":"Argy-Rousseau, Gabriel, born 1885 - died 1953 (designer)",
+         "productionDate":"1924",
+         "museumNumber":"C.34-1974",
+         "galleryLocation":"Glass, room 131, case 30, shelf 2",
+         "imageUrl":"../media/images/model0.png",
+         "x3domUrl":"../media/models/model0.x3d"
+      },
+      {  
+         "name":"The Lord Keeper's Cup",
+         "description":"A highly ornamented standing cup would have been on display during a meal rather than used. This example was made from one of the Great Seals of James I held by Sir Thomas Coventry. The tradition that allowed the Lord Keeper of the Great Seal to retain it and have it made into a piece of plate began with Nicholas Bacon, Keeper from 1558 to 1579. It was referred to as a perquisite, hence our modern word 'perk'.",
+         "placeOfOrigin":"London, England",
+         "materials":"cutglass",
+         "artist":"John Thurston, born 1774 - died 1822 (designer)",
+         "productionDate":"1626-1627",
+         "museumNumber":"M.59:1, 2-1993",
+         "galleryLocation":"British Galleries, room 56e, case 6",
+         "imageUrl":"../media/images/model1.png",
+         "x3domUrl":"..\/media\/models\/x3d\/model1.x3d"
+      },
+      {  
+         "name":"Perfume Vase",
+         "description":"Perfume vases (also known as 'essence pots' and pot-pourri vases) were set out on chimneypieces and other domestic furnishings. They were filled with pot-pourri (perfumed or sweet-smelling leaves) similar to those used to sweeten the air today. Perfume vases of this design are recorded as being sold singly, but were also made in pairs.",
+         "placeOfOrigin":"London, England",
+         "materials":"Soft-paste porcelain, painted in enamels, with tooled and burnished gilding",
+         "artist":"Chelsea Porcelain factory",
+         "productionDate":"c.1760-1765",
+         "museumNumber":"C.8:1 to 3-1996",
+         "galleryLocation":"British Galleries, room 77, case 2",
+         "imageUrl":"../media/images/model2.png",
+         "x3domUrl":"..\/media\/models\/x3d\/model2.x3d"
+      },
+      {  
+         "name":"1001 Nights Vase",
+         "description":"Enamelled decoration on glass is a centuries-old Bohemian (Czechoslovakia, now Czech Republic) tradition. It was taken up by Stansilav Libensky in the 1940s when he taught in the Dept. of Painted and Stained Glass at the Novy Bor glass school. He made a large number of designs based on biblical themes, but also many others which were more fantastic and impressionistic using motifs from prehistoric cave paintings to fairy tales and dreams. The decoration was applied by technicians using acid-etching, which was then painted in by the students as part of their training.",
+         "placeOfOrigin":"London, England",
+         "materials":"Engraved and enamelled glass",
+         "artist":"Libensky, Stanislav, born 1921 (designer)",
+         "productionDate":"1946",
+         "museumNumber":"C.104-1984",
+         "galleryLocation":"In Storage",
+         "imageUrl":"../media/images/model3.png",
+         "x3domUrl":"..\/media\/models\/x3d\/model3.x3d"
+      },
+      {  
+         "name":"Favrile Vase",
+         "description":"'Favrile' was Tiffany & Co's art-glass range. Its name probably comes from 'fabrile', the 'old English' word for 'handmade', indicating that the range was made by skilled glass workers. The historic technique used for this piece involved incorporating coloured canes into the body of the glass and working the glass while it is still hot and malleable. Louis Comfort Tiffany persuaded Arthur J. Nash, a talented English glass blower from Stourbridge, West Midlands, to join him in America to work on experimental projects. In 1893 the two men went into business and established the Stourbridge Glass Co at the Corona glassworks, Long Island, New York. At first the factory made mostly stained glass, but a glass-blowing shop was soon included.",
+         "placeOfOrigin":"London, England",
+         "materials":"Glass, with applied and marvered colours, combed",
+         "artist":"Tiffany, Louis Comfort, born 1848 - died 1933 (designer)",
+         "productionDate":"ca. 1895",
+         "museumNumber":"C.58-1972",
+         "galleryLocation":"Glass, room 131, case 29, shelf 1",
+         "imageUrl":"../media/images/model4.png",
+         "x3domUrl":"..\/media\/models\/x3d\/model4.x3d"
+      }
+   ]
+}

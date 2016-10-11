@@ -1,0 +1,54 @@
+{  
+   "models":[  
+      {  
+         "name":"Bamboo Shadow Lantern",
+         "description":"A shadow lantern made from bamboo. Middle part of the lantern is transparent, allowing people to put candles in it and shadow will be cast from the bamboo pattern.",
+         "placeOfOrigin":"Dalian, China",
+         "materials":"Bamboo",
+         "artist":"Ka Yong Chang, 1101-1156.",
+         "productionDate":"1924",
+         "museumNumber":"0001",
+         "galleryLocation":"Room A, Shelf 2, item1",
+         "imageUrl":"../media/images/lantern1.png",
+         "x3domUrl":"../media/models/lantern1_3.x3d",
+		 "videoUrl":"../media/videos/lantern1.mov"
+      },
+      {  
+         "name":"Gauze Lantern ",
+         "description":"Gauze was used to cover the lantern, and bamboo was used to make the curved frame. This is a festival lantern used in Spring Festival.",
+         "placeOfOrigin":"Beijing, China",
+         "materials":"Gaeze, bamboo",
+         "artist":"Unknown",
+         "productionDate":"1520",
+         "museumNumber":"0002",
+         "galleryLocation":"Room C, Shelf 11, item2",
+         "imageUrl":"../media/images/lantern2.png",
+         "x3domUrl":"../media/models/lantern2.x3d",
+		 "videoUrl":"../media/videos/lantern2.mov"
+      },
+      {  
+         "name":"Red Dragon Lantern",
+         "description":"A ancient lantern used indoor for decoodation. The top of the lantern can be seperated from the body so the candle could be put inside the lantern.",
+         "materials":"Bamboo, candle.",
+         "artist":"Yong Wing Lam",
+         "productionDate":"1940",
+         "museumNumber":"0003",
+         "galleryLocation":"Room C, Shelf 3, item45",
+         "imageUrl":"../media/images/lantern3.png",
+          "x3domUrl":"../media/models/lantern3_2.x3d",
+		 "videoUrl":"../media/videos/lantern3.mov"
+      },
+      {  
+         "name":"Palace lantern",
+         "description":"Created for decorating the palace in the acient times,this graceful pice was made from bamboo and silk ",
+         "materials":"Engraved and enamelled glass",
+         "artist":"Libensky, Stanislav, born 1921 (designer)",
+         "productionDate":"1946",
+         "museumNumber":"C.104-1984",
+         "galleryLocation":"In Storage",
+         "imageUrl":"../media/images/lantern4.png",
+         "x3domUrl":"../media/models/lantern4.x3d",
+		 "videoUrl":"../media/videos/lantern4.mov"
+      }
+   ]
+}
